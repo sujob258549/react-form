@@ -1,6 +1,7 @@
 
 import './App.css'
 import From from './component/From/From'
+import UseRafe from './component/UseRafe/UseRafe'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
      
       <From></From>
+      <UseRafe></UseRafe>
     </>
   )
 }
